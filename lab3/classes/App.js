@@ -25,6 +25,7 @@ export default class App {
 
       console.log("📕");
       let todo = new Todo("This is a demo");
+      todo.add();
     }  
 
       // this.reset();
